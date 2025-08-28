@@ -63,4 +63,4 @@ Commit changes and open a pull request
 
 ## 🎥 Gameplay Demo
 
-[▶ Watch the demo](demo/gameplay.mp4)
+[▶ Watch the demo](GamePlay.mp4)
